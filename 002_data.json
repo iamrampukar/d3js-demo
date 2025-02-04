@@ -1,0 +1,60 @@
+{
+    "name": "Word",
+    "children": [
+        {
+            "name": "Asia",
+            "children": [
+                {
+                    "name": "South Asia",
+                    "children": [
+                        {
+                            "name": "Afganistan"
+                        },
+                        {
+                            "name": "Bhutan"
+                        },
+                        {
+                            "name": "Bangladesh"
+                        },
+                        {
+                            "name": "India"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Europ",
+            "children": [
+                {
+                    "name": "East Europ",
+                    "children": [
+                        {
+                            "name": "UK"
+                        },
+                        {
+                            "name": "Finland"
+                        },
+                        {
+                            "name": "Germmany"
+                        },
+                        {
+                            "name": "Netherland"
+                        }
+                    ]
+                },
+                {
+                    "name": "West Europ",
+                    "children": [
+                        {
+                            "name": "France"
+                        },
+                        {
+                            "name": "Spain"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
