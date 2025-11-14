@@ -1,0 +1,26 @@
+{
+    "id": "1",
+    "name": "1",
+    "parent": "",
+    "children": [
+        {
+            "id": "2",
+            "name": "1.1",
+            "parent": "p-2",
+            "children": [
+                {
+                    "id": "2",
+                    "name": "1.1",
+                    "parent": "p-2"
+
+                }
+            ]
+
+        },
+        {
+            "id": "101",
+            "name": "1.2",
+            "parent": ""
+        }
+    ]
+}

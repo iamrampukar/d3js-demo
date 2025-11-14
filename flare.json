@@ -1,8 +1,8 @@
 {
-    "name": "flare",
+    "name": "चितवन",
     "children": [
         {
-            "name": "analytics",
+            "name": "साहारा",
             "children": [
                 {
                     "name": "cluster",
@@ -62,7 +62,7 @@
             ]
         },
         {
-            "name": "animate",
+            "name": "बहुउद्देश्यीय",
             "children": [
                 {
                     "name": "Easing",
@@ -152,7 +152,7 @@
             ]
         },
         {
-            "name": "data",
+            "name": "सहकारी",
             "children": [
                 {
                     "name": "converters",
@@ -206,7 +206,7 @@
             ]
         },
         {
-            "name": "display",
+            "name": "ठगीमा",
             "children": [
                 {
                     "name": "DirtySprite",
@@ -227,7 +227,7 @@
             ]
         },
         {
-            "name": "flex",
+            "name": "जिल्ला",
             "children": [
                 {
                     "name": "FlareVis",
@@ -236,7 +236,7 @@
             ]
         },
         {
-            "name": "physics",
+            "name": "अदालतमा",
             "children": [
                 {
                     "name": "DragForce",
@@ -273,7 +273,7 @@
             ]
         },
         {
-            "name": "query",
+            "name": "मंगलबार",
             "children": [
                 {
                     "name": "AggregateExpression",
@@ -523,7 +523,7 @@
             ]
         },
         {
-            "name": "scale",
+            "name": "पूर्वगृहमन्त्री",
             "children": [
                 {
                     "name": "IScaleMap",
@@ -568,7 +568,7 @@
             ]
         },
         {
-            "name": "util",
+            "name": "जनाविरुद्ध",
             "children": [
                 {
                     "name": "Arrays",
@@ -688,7 +688,7 @@
             ]
         },
         {
-            "name": "vis",
+            "name": "डीआईजी",
             "children": [
                 {
                     "name": "axis",
