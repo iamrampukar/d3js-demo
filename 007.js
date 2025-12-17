@@ -1042,7 +1042,8 @@ const width = 928;
 //         }
 //     ]
 // };
-d3.json('flare.json').then(data => {
+// d3.json('flare.json').then(data => {
+d3.json('create-json.json').then(data => {
 
 
     const root = d3.hierarchy(data);
